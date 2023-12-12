@@ -1,0 +1,722 @@
+[
+    {
+        "nome": "One Piece",
+        "id_filme": "S8_YwFLCh4U",
+        "plataforma": [
+            "Netflix",
+            "crunchyroll"
+        ],
+        "categoria": "Anime"
+    },
+    {
+        "nome": "Naruto Shippunden",
+        "id_filme": "KePpQ8kAJnI",
+        "plataforma": [
+            "Netflix",
+            "crunchyroll"
+        ],
+        "categoria": "Anime"
+    },
+    {
+        "nome": "Shaman",
+        "id_filme": "9hmnCP336EA",
+        "plataforma": [
+            "Netflix",
+            "crunchyroll"
+        ],
+        "categoria": "Anime"
+    },
+    {
+        "nome": "OS SETE PECADOS CAPITAIS",
+        "id_filme": "Atlbc7I7OLY",
+        "img": "https://img.youtube.com/vi/Atlbc7I7OLY/maxresdefault.jpg",
+        "plataforma": [
+            "Netflix",
+            "crunchyroll"
+        ],
+        "categoria": "Anime"
+    },
+    {
+        "nome": "One Punch Man",
+        "id_filme": "Poo5lqoWSGw",
+        "img": "https://img.youtube.com/viPoo5lqoWSGw/maxresdefault.jpg",
+        "plataforma": [
+            "Netflix",
+            "crunchyroll"
+        ],
+        "categoria": "Anime"
+    },
+    {
+        "nome": "Argylle O Superespião",
+        "id_filme": "lT4bArqlVsY",
+        "plataforma": [
+            "Apple Tv",
+            "Youcine"
+        ],
+        "categoria": "Ação"
+    },
+    {
+        "nome": "A INCRÍVEL HISTÓRIA DE HENRY SUGAR",
+        "id_filme": "eSvYMo_D-eM",
+        "plataforma": [
+            "Netflix",
+            "Youcine"
+        ],
+        "categoria": "Drama"
+    },
+    {
+        "nome": "Capetã Marvel",
+        "id_filme": "FV7AxLbHcrE",
+        "plataforma": [
+            "Disney",
+            "Youcine"
+        ],
+        "categoria": "Ficção científica"
+    },
+    {
+        "nome": " Invasão Secreta",
+        "id_filme": "yO0VxK6R4iw",
+        "plataforma": [
+            "Disney",
+            "Youcine"
+        ],
+        "categoria": "Ficção científica"
+    },
+    {
+        "nome": "Guardiões da Galáxia: Volume 3",
+        "id_filme": "Z0dnUCk1T9s",
+        "plataforma": [
+            "Disney",
+            "Youcine"
+        ],
+        "categoria": "Ficção científica"
+    },
+    {
+        "nome": "Homen Formiga e a Vespa",
+        "id_filme": "yWqTMHy_-2I",
+        "categoria": "Ficção científica",
+        "plataforma": [
+            "Disney",
+            "Youcine"
+        ]
+    },
+    {
+        "nome": "Thor Amor e Trovão",
+        "id_filme": "YzGaCtmYKug",
+        "categoria": "Ficção científica",
+        "plataforma": [
+            "Disney",
+            "Youcine"
+        ]
+    },
+    {
+        "nome": "O Sentido da Vida",
+        "id_filme": "SerBQzD7o_c",
+        "categoria": "Drama",
+        "plataforma": [
+            "Apple Tv"
+        ]
+    },
+    {
+        "nome": "Enjaulado ",
+        "id_filme": "AlMkIlDvuqg",
+        "categoria": "Drama",
+        "plataforma": [
+            "Apple Tv",
+            "Prime Video"
+        ]
+    },
+    {
+        "nome": "Além das Profundezas",
+        "id_filme": "zb79LvRPUvg",
+        "categoria": "Drama",
+        "plataforma": [
+            "Prime Video"
+        ]
+    },
+    {
+        "nome": "Graça e Coragem",
+        "id_filme": "SPFjHV-R1QQ",
+        "categoria": "Drama",
+        "plataforma": [
+            "Apple Tv"
+        ]
+    },
+    {
+        "nome": "No Ritmo da Fé",
+        "id_filme": "wZs-OKoaLJc",
+        "categoria": "Drama",
+        "plataforma": [
+            "Netflix"
+        ]
+    },
+    {
+        "nome": "A Lição",
+        "id_filme": "TbToS-FD9u4",
+        "categoria": "Terror",
+        "plataforma": [
+            "Netflix",
+            "Youcine"
+        ]
+    },
+    {
+        "nome": "My Name",
+        "id_filme": "miw-wW6ka14",
+        "categoria": "Ação",
+        "plataforma": [
+            "Netflix"
+        ]
+    },
+    {
+        "nome": "Um Match Surpresa",
+        "id_filme": "bxfzkbUFlwU",
+        "categoria": "Romance",
+        "plataforma": [
+            "Netflix",
+            "Youcine"
+        ]
+    },
+    {
+        "nome": "Destinos Opostos",
+        "id_filme": "MRFRzuxbQ9c",
+        "categoria": "Drama",
+        "plataforma": [
+            "Prime Video",
+            "Apple Tv"
+        ]
+    },
+    {
+        "nome": "AIR: A História Por Trás do Logo",
+        "id_filme": "evFdZeEbij4",
+        "categoria": "Drama",
+        "plataforma": [
+            "Prime Video"
+        ]
+    },
+    {
+        "nome": "O Preço do Prazer",
+        "id_filme": "ak8GJE2D8-8",
+        "categoria": "Suspense",
+        "plataforma": [
+            "Youcine"
+        ]
+    },
+    {
+        "nome": "Gato de Botas 2 : O Último Pedido",
+        "id_filme": "sLk94T-hS78",
+        "categoria": "Aventura",
+        "plataforma": [
+            "Prime Video",
+            "Apple Tv",
+            "Telecine"
+        ]
+    },
+    {
+        "nome": "Avatar: O Caminho da Água",
+        "id_filme": "x5pZI-DmtrE",
+        "categoria": "Ficção científica",
+        "plataforma": [
+            "Disney",
+            "Apple Tv"
+        ]
+    },
+    {
+        "nome": "Pequenos Espiões: Apocalipse",
+        "id_filme": "24eNGzKSWK0",
+        "categoria": "Ação",
+        "plataforma": [
+            "Netflix"
+        ]
+    },
+    {
+        "nome": "A Máquina do Crime",
+        "id_filme": "AwDKLEaJxMk",
+        "categoria": "Ação",
+        "plataforma": [
+            "Prime Video",
+            "Apple Tv"
+        ]
+    },
+    {
+        "nome": "As Tartarugas Ninja: Fora das Sombras",
+        "id_filme": "NzaSDRk_kCg",
+        "categoria": "Ação",
+        "plataforma": [
+            "Telecine",
+            "Apple Tv",
+            "Prime Video",
+            "Paramount+"
+        ]
+    },
+    {
+        "nome": "Gran Turismo: De Jogador a Corredor",
+        "id_filme": "W2oXkCFH-cE",
+        "categoria": "Nos Cinemas",
+        "plataforma": [
+            "Nos cinemas"
+        ]
+    },
+    {
+        "nome": "16 Quadras",
+        "id_filme": "LYMiJJps298",
+        "categoria": "Ação",
+        "plataforma": [
+            "Prime Video"
+        ]
+    },
+    {
+        "nome": "Sisu: Uma História De Determinação",
+        "id_filme": "kiBiBZVXYqw",
+        "categoria": "Ação",
+        "plataforma": [
+            "Prime Video",
+            "Apple Tv"
+        ]
+    },
+    {
+        "nome": "Meus Sogros Tão Pro Crime",
+        "id_filme": "R8xepj9wpi4",
+        "categoria": "Ação",
+        "plataforma": [
+            "Netflix"
+        ]
+    },
+    {
+        "nome": "Jogo de Traições 3",
+        "id_filme": "KA9gzFwoTYs",
+        "categoria": "Ação",
+        "plataforma": [
+            "Apple Tv",
+            "Prime Video"
+        ]
+    },
+    {
+        "nome": "Shin Masked Rider",
+        "id_filme": "W1o01aSPjBg",
+        "categoria": "Ação",
+        "plataforma": [
+            "Prime Video"
+        ]
+    },
+    {
+        "nome": "Os Mercenários 4",
+        "id_filme": "PJ7Up42N6q8",
+        "categoria": "Nos Cinemas",
+        "plataforma": [
+            "Nos cinemas"
+        ]
+    },
+    {
+        "nome": "Amor à Primeira Vista",
+        "id_filme": "5gJdCxnllDY",
+        "categoria": "Romance",
+        "plataforma": [
+            "Netflix"
+        ]
+    },
+    {
+        "nome": "Loki",
+        "id_filme": "wmlcMkj2H70",
+        "plataforma": [
+            "Disney",
+            "Youcine"
+        ],
+        "categoria": "Ficção científica"
+    },
+    {
+        "nome": "_4is7I_ZxTg",
+        "id_filme": "_4is7I_ZxTg",
+        "plataforma": [
+            "Disney",
+            "Youcine"
+        ],
+        "categoria": "Desenho"
+    },
+    {
+        "nome": "Mulher Hulk Defensora De Heróis",
+        "id_filme": "U6IPxEGNgjo",
+        "plataforma": [
+            "Disney",
+            "Youcine"
+        ],
+        "categoria": "Ficção científica"
+    },
+    {
+        "nome": "Imperdoável",
+        "id_filme": "P0RO1pF4L1o",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "WOgQNfEWapk",
+        "nome": "Jogada de Rei",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "gGYb63vuuEI",
+        "nome": "Moving",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "T22WRjooZn4",
+        "nome": "Assassinos da Lua das Flores",
+        "plataforma": "Nós Cinemas",
+        "categoria": "Cinema"
+    },
+    {
+        "id_filme": "ZOhIdaufd3Q",
+        "nome": "O Próprio Enterro",
+        "plataforma": "Prime Video",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "gU0zInmi08U",
+        "nome": "Era uma Vez uma Estrela",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "iNyN0uMQs1o",
+        "nome": "Meu Nome é Gal",
+        "plataforma": "Nós Cinemas",
+        "categoria": "Cinema"
+    },
+    {
+        "id_filme": "Mu1mh5zE60A",
+        "nome": "Raiva",
+        "plataforma": "Prime Video",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "vZt3uHYfXHA",
+        "nome": "Uma Aula de Harmonia",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "osdxHxVPkMo",
+        "nome": "À Espera da Chuva",
+        "plataforma": "Prime Video, Apple TV",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "u-HjfQ4am88",
+        "nome": "Nosso Sonho",
+        "plataforma": "Nós Cinemas",
+        "categoria": "Cinema"
+    },
+    {
+        "id_filme": "doDM5I07fxc",
+        "nome": "Cassandro",
+        "plataforma": "Prime Video, Youcine",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "QpdRvwpTIxk",
+        "nome": "A Milhões de Quilômetros",
+        "plataforma": "Prime Video",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "InNrl2-tl58",
+        "nome": "Jagun Jagun: O Guerreiro",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "OAxpuCqV2x0",
+        "nome": "Homem de Fé",
+        "plataforma": "Prime Video, Apple TV",
+        "categoria": "Drama"
+    },
+    {
+        "id_filme": "3yUYh-Rbysk",
+        "nome": "Vejo Você na Próxima Vida",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "gBGW_5oo0Vc",
+        "nome": "The Good Bad Mother",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "vlS9ccfza64",
+        "nome": "Doctor Cha",
+        "plataforma": "NetFlix",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "Cq1BrvJk_C8",
+        "nome": "Clima do Amor",
+        "plataforma": "NetFlix",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "M0roNIisQ5w",
+        "nome": "Intensivão do Amor",
+        "plataforma": "NetFlix",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "1UjzpEnpIqM",
+        "nome": "Celebrity",
+        "plataforma": "NetFlix",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "7XPxoX4rZbc",
+        "nome": "Sorriso Real",
+        "plataforma": "NetFlix",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "v23gHUC4lNk",
+        "nome": "Black Knight",
+        "plataforma": "NetFlix",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "4LwdKsHIT2Q",
+        "nome": "Cães de Caça",
+        "plataforma": "NetFlix",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "TbToS-FD9u4",
+        "nome": "A Lição",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "2ldvydu34Is",
+        "nome": "The Untamed",
+        "plataforma": "Youtube, Netflix, Viki",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "zL6Iw0hdkKU",
+        "nome": "Vincenzo Cassano",
+        "plataforma": "NetFlix",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "Bu2_j1CPr3c",
+        "nome": "Alice in Borderland",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Dorama"
+    },
+    {
+        "id_filme": "3R3FmoQQpvw",
+        "nome": "Barbie ",
+        "plataforma": "Prime Video, Youtube, iTunes",
+        "categoria": "Comédia"
+    },
+    {
+        "id_filme": "TObLkyE2Neg",
+        "nome": "Trem Bala",
+        "plataforma": "HBO Max, Youcine, Youtube",
+        "categoria": "Comédia"
+    },
+    {
+        "id_filme": "63wrgflqkj8",
+        "nome": "Se Beber não Case",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Comédia"
+    },
+    {
+        "id_filme": "sz0i7eQBjn4",
+        "nome": "A Ressaca",
+        "plataforma": "Youtube",
+        "categoria": "Comédia"
+    },
+    {
+        "id_filme": "P90bVrqhia0",
+        "nome": "A Ressaca 2",
+        "plataforma": "Telecine, Youtube",
+        "categoria": "Comédia"
+    },
+    {
+        "id_filme": "ptG5yyDacxs",
+        "nome": "Encontro Marcado",
+        "plataforma": "Globoplay, Prime Video, Apple TV",
+        "categoria": "Romance"
+    },
+    {
+        "id_filme": "tpwT7N7G--c",
+        "nome": "Todo Mundo Em Panico 4",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Comédia"
+    },
+    {
+        "id_filme": "lH78UCC10cY",
+        "nome": "Todo Mundo Em Panico 2",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Comédia"
+    },
+    {
+        "id_filme": "MfOslLcBIL8",
+        "nome": "Todo Mundo em Pânico 5",
+        "plataforma": "NetFlix, Youcine, Youtube",
+        "categoria": "Comédia"
+    },
+    {
+        "id_filme": "MxpDJZDKMyE",
+        "nome": "Scooby - o Filme",
+        "plataforma": "HBO Max, Youcine, Youtube",
+        "categoria": "Desenho"
+    },
+    {
+        "id_filme": "xMi4xr1-JeM",
+        "nome": "Scooby-Doo 2",
+        "plataforma": "HBO Max, Youcine, Youtube, Netflix",
+        "categoria": "Comédia"
+    },
+    {
+        "id_filme": "s-DMNJdLDqE",
+        "nome": "Scooby-Doo! e a Espada",
+        "plataforma": "Apple TV, Youtube",
+        "categoria": "Aventura"
+    },
+    {
+        "id_filme": "uj2KVlow478",
+        "nome": "Scooby-Doo! e Coragem",
+        "plataforma": "Apple TV, Youtube, HBO Max",
+        "categoria": "Aventura"
+    },
+    {
+        "id_filme": "0tZxLFTJI08",
+        "nome": "Gatos no Museu",
+        "plataforma": "Prime Video, Apple TV, Youtube",
+        "categoria": "Aventura"
+    },
+    {
+        "id_filme": "RTQU7pbPHMY",
+        "nome": "Os Peludos",
+        "plataforma": "Youtube",
+        "categoria": "Aventura"
+    },
+    {
+        "id_filme": "CfjsZhKRRAE",
+        "nome": "A Fuga das Galinhas",
+        "plataforma": "NetFlix",
+        "categoria": "Aventura"
+    },
+    {
+        "id_filme": "j4fyrqoZddY",
+        "nome": "A Pequena Sereia",
+        "plataforma": "Disney+",
+        "categoria": ""
+    },
+    {
+        "id_filme": "9PLl0qJjDrQ",
+        "nome": "Asterix e Obelix no Reino do Meio",
+        "plataforma": "NetFlix",
+        "categoria": "Aventura"
+    },
+    {
+        "id_filme": "JvqcaQJgr-A",
+        "nome": "One Piece Film: Red",
+        "plataforma": "Prime Video, Apple TV, Youtube, HBO Max",
+        "categoria": "Aventura"
+    },
+    {
+        "id_filme": "9F-aGt8_1aQ",
+        "nome": "Jogos Mortais X",
+        "plataforma": "Nós Cinemas",
+        "categoria": "Cinema"
+    },
+    {
+        "id_filme": "paFgQNPGlsg",
+        "nome": "Annabelle",
+        "plataforma": "HBO Max, Youcine",
+        "categoria": "Terror"
+    },
+    {
+        "id_filme": "VFsmuRPClr4",
+        "nome": "nvocação Do Mal 2",
+        "plataforma": "HBO Max, Youcine",
+        "categoria": "Terror"
+    },
+    {
+        "id_filme": "W5gSqnYAgeA",
+        "nome": "Bird Box Barcelona",
+        "plataforma": "NetFlix, Youcine",
+        "categoria": "Terror"
+    },
+    {
+        "id_filme": "yX-pvjO4N3o",
+        "nome": "O Demônio dos Mares",
+        "plataforma": "Prime Video, Apple TV, Youtube, HBO Max",
+        "categoria": "Terror"
+    },
+    {
+        "id_filme": "Bp4MLrmp90U",
+        "nome": "O Chamado 4",
+        "plataforma": "Prime Video, Apple TV, Youtube",
+        "categoria": "Terror"
+    },
+    {
+        "id_filme": "oL3Zu0oV7UQ",
+        "nome": "Beau Tem Medo",
+        "plataforma": "Apple TV, Youtube",
+        "categoria": "Terror"
+    },
+    {
+        "id_filme": "XLyujBTY3Mk",
+        "nome": "Amor, Sexo e 30 Velinhas",
+        "plataforma": "NetFlix, Youtube",
+        "categoria": "Romance"
+    },
+    {
+        "id_filme": "9REJDPuYRu4",
+        "nome": "Um Ano Inesquecível: Primavera",
+        "plataforma": "Apple TV, Youtube, Prime Video",
+        "categoria": "Romance"
+    },
+    {
+        "id_filme": "f5LoeL-SViE",
+        "nome": "Um Amor Para Duas",
+        "plataforma": "NetFlix",
+        "categoria": "Romance"
+    },
+    {
+        "id_filme": "cGBmX4Z90Ao",
+        "nome": "Galinha Pintadinha",
+        "plataforma": "Apple TV, Youtube",
+        "categoria": "Desenho"
+    },
+    {
+        "id_filme": "vlqAglBKQXA",
+        "nome": "Patrulha Canina: Um Filme",
+        "plataforma": "Nós Cinemas",
+        "categoria": "Cinema"
+    },
+    {
+        "id_filme": "yBiU39bUFlA",
+        "nome": "Nimona",
+        "plataforma": "NetFlix",
+        "categoria": "Desenho"
+    },
+    {
+        "id_filme": "_PDhT5sYk00",
+        "nome": "Ruby Marinho: Monstro Adolescente",
+        "plataforma": "Prime Video, Apple TV, Youtube,",
+        "categoria": "Desenho"
+    },
+    {
+        "id_filme": "BydjQP2aFd0",
+        "nome": "Elementos",
+        "plataforma": "Disney+",
+        "categoria": "Desenho"
+    },
+    {
+        "id_filme": "Cb4WV4aXBpk",
+        "nome": "Super Mario Bros. O Filme",
+        "plataforma": "Apple TV, Youtube, Prime Video",
+        "categoria": "Desenho"
+    }
+]

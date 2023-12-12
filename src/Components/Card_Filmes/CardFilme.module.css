@@ -1,0 +1,15 @@
+.capa{ border-radius: 15px; width: 250px; height: 150px;}
+
+.card{ position: relative; margin: 3px; display: inline-block;}
+
+.capa:hover{ transform: scale(1.05); box-shadow: 0 0 10px 4px #222;}
+
+.icon { position: absolute; bottom: 10px; right: 10px; background: #08080860; border: none; color: white;}
+
+/* responsivo mobile e tablets */
+@media(max-width: 769px){
+
+    .capa{
+    width: 180px;
+     height: auto;}
+}

@@ -1,0 +1,19 @@
+.container_load{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.load{
+    background-color: none;
+    border-top: 4px solid blue;
+    border-radius: 100%;
+    animation: ani 2s linear infinite;
+    height: 100px;
+    width: 100px;
+}
+@keyframes ani {
+    0%{ transform: rotate(0deg); }
+
+    100%{ transform: rotate(360deg);}
+}

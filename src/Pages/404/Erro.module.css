@@ -1,0 +1,10 @@
+.container_erro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
+.container_erro h1{ font: 700 30px 'Poppins'; text-align: center; color: rgb(223, 14, 14);}
+
+.container_erro p, .container_erro a{ font: 500 18px 'Poppins';}

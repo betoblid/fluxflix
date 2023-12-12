@@ -1,0 +1,15 @@
+.container_search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    padding-block: 20px;
+}
+.container_search h2{  font: 600 26px "Arial"; }
+.container_search input{
+    width: 350px;
+    padding: 5px;
+    font-size: 18px;
+    outline: none;
+}

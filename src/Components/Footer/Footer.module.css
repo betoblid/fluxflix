@@ -1,0 +1,5 @@
+.Footer{ background: black; padding-block: 10px;}
+
+.Footer p{ margin: 0; font: 600 12px 'Poppins'; text-align: center; color: rgb(104, 104, 104);}
+
+.Footer p span{ text-decoration: none; color: white;}

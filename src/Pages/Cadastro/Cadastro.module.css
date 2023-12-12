@@ -1,0 +1,45 @@
+.container_cadastro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    gap: 20px;
+    background-image: linear-gradient(to right top, #000000, #120209, #1b0414, #21071d, #230b29, #230b30, #210c38, #1d0d40, #190a44, #150647, #0e034b, #03004f);
+    color: white;
+}
+.container_cadastro h1 {font: 600 32px 'Poppins';}
+
+.container_cadastro button {
+    background: #2d156e;
+    color: white;
+    padding: 7px 20px;
+    font: 400 16px 'Poppins';
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.container_cadastro button:active{ background: #381792; box-shadow: 0 0 10px 2px #381792;}
+.card_input {
+    border-radius: 10px;
+    box-shadow: 0 0 10px 2px #191919;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 25px;
+    width: 380px;
+    background-image: linear-gradient(to right top, #000000, #0c0005, #11000f, #110018, #090021);
+}
+
+.card_input label { font: 400 18px 'Poppins'; padding-block: 7px;}
+
+.card_input input {
+    padding: 5px 10px;
+    font: normal 16px 'Poppins';
+    width: 100%;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    color: white;
+    background: none;
+}

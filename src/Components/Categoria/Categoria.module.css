@@ -1,0 +1,8 @@
+.category{ display: flex; flex-direction: column; margin: 0 auto;}
+
+.category h2{ font: 700 28px Arial;color: white;padding: 1rem 0;}
+
+.category div{ display: flex; justify-content: flex-start;align-items: center; height: 150px;}
+@media(max-width: 769px){
+    .category div{height: 100px;}
+}

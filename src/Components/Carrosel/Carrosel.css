@@ -1,0 +1,14 @@
+.slick-list, .slick-slider, .slick-track{
+    display: flex;
+}
+
+.slick-dots li.slick-active button:before{
+    color: white;
+}
+.slick-slider{
+    width: 90%;
+    margin: 0 auto;
+}
+.slick-prev, .slick-next{
+    font-size: 33px;
+}

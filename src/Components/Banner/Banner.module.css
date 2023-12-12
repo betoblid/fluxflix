@@ -1,0 +1,104 @@
+.sessao_banner { overflow: hidden; background: #191919;}
+
+.box_img {position: relative;}
+
+.box_img img {width: 100%;}
+
+.box_trailer{ position: absolute; bottom: 40%; right: 5%; z-index: 0;}
+
+.box_trailer iframe{ width: 700px; height: 400px;}
+
+.box_text { position: absolute; bottom: 20%; left: 10%; color: white;}
+
+.box_card { position: absolute; bottom: 20%; right: 10%; color: white;}
+
+.box_text h1 {font: 600 52px "Poppins";}
+
+.box_text p {font: 500 18px "Poppins"; width: 40%;}
+
+/* fazendo o responsivo do banner slider */
+@media(max-width: 320px) {
+    .box_text { bottom: 10%; left: 2%; background: rgba(0, 0, 0, 0.112);}
+
+    .box_card {right: 7%; color: white;}
+
+    .box_text h1 { font-size: 16px; margin-bottom: 10px;}
+
+    .box_text p {font-size: 10px; width: 90%;}
+
+    .box_trailer{bottom: 50%;}
+
+    .box_trailer iframe{width: 100px; height: 50px;}
+}
+@media(min-width: 321px) and (max-width: 480px) {
+
+    .box_text { bottom: 10%; left: 2%;}
+
+    .box_card { right: 7%; color: white;}
+
+    .box_text h1 { font-size: 22px; margin-bottom: 10px;}
+
+    .box_text p {font-size: 11px; width: 70%;}
+
+    .box_trailer{right: 0;}
+
+    .box_trailer iframe{width: 190px; height: 120px; }
+}
+
+@media(min-width: 481px) and (max-width: 792px) {
+    .box_text { bottom: 11%; left: 2%;}
+
+    .box_card { right: 7%;}
+
+    .box_text h1 {font-size: 28px; margin-bottom: 10px; }
+
+    .box_text p { width: 80%; font-size: 16px;}
+
+    .box_trailer{right: 1%;}
+
+    .box_trailer iframe{width: 250px;  height: 160px;}
+}
+
+@media(min-width: 793px) and (max-width: 1200px) {
+
+    .box_text {left: 2%; }
+
+    .box_card {right: 7%;}
+
+    .box_text h1 { font-size: 38px; margin-bottom: 10px;}
+
+    .box_text p { width: 70%; font-size: 20px;}
+
+    .box_trailer iframe{ width: 400px; height: 250px;}
+}
+
+@media(min-width: 1201px) and (max-width: 1600px) {
+    .box_card { right: 7%;}
+
+    .box_text h1 { font-size: 48px; margin-bottom: 10px;}
+
+    .box_text p { width: 55%; font-size: 24px;}
+
+    .box_trailer iframe{width: 600px; height: 360px;}
+}
+
+@media(min-width: 1601px) and (max-width: 1900px) {
+    .box_card { right: 7%;}
+
+    .box_text h1 { font-size: 60px; margin-bottom: 15px;}
+
+    .box_text p { width: 55%; font-size: 26px;}
+
+    .box_trailer iframe{width: 500px; height: 300px; }
+}
+
+@media(min-width: 1901px) {
+
+    .box_text { bottom: 30%;}
+
+    .box_card { right: 7%;}
+
+    .box_text h1 { font-size: 78px; margin-bottom: 15px;}
+
+    .box_text p { width: 55%; font-size: 30px;}
+}

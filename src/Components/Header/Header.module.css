@@ -1,0 +1,79 @@
+.container_header{ 
+    background: black;
+    display: flex;
+    align-items: center; 
+    justify-content: space-around; 
+    position: relative; 
+    padding-block: 12px;
+}
+.container_header figure{ margin: 0;}
+
+.container_header figure img{ width: 150px;}
+
+.on{
+    z-index: 1;
+    position: absolute;
+    bottom: -160px;
+    width: 80%;
+    background: black;
+    z-index: 1;
+}
+.container_header ul{list-style: none; padding: 0;}
+
+.container_header ul li a{
+    display: block;
+    width: 100%;
+    padding-block: 10px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font: 500 18px 'Poppins';
+    text-align: center;
+}
+.container_header ul li a:hover{ background: #d9d9d9; color: black;}
+
+.hidden{ display: none;}
+
+.menu_off button{
+    width: 30px;
+    color: white;
+    background: none;
+    border: none;
+}
+
+@media(min-width: 789px){
+    /* clase de controle aqui em baixo como display inline para que apareça na tela */
+    .hidden{ display: inline;}
+    /* classe de controle do menu nav bar mobile */
+    .menu_off{ display: none;}
+
+    .container_header nav{
+        position: relative;
+        margin-top: 10px;
+        width: auto;
+        bottom: 0;
+        background: none;
+        z-index: 1; 
+    }
+    .container_header nav ul li{ position: relative; }
+
+    .container_header nav ul li a{font-size: 18px; padding: 0;}
+
+    .container_header nav ul li a:hover{ background: none; color: white;}
+
+    .container_header nav ul{display: flex; gap: 10px; }
+
+    .container_header nav ul li::before{
+        background-color: #ffffff;
+        border-radius: 3px;
+        bottom: -2px;
+        content: "";
+        height: 4px;
+        position: absolute;
+        scale: 0;
+        -webkit-transform-origin: left;
+        transform-origin: left;
+        transition: scale .5s;
+        width: 100%;
+    }
+    .container_header nav ul li:hover::before{  scale: 1; }
+}

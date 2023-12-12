@@ -1,0 +1,170 @@
+.sectiontrailler { margin: 40px 0;}
+
+/* usando display flex na div responsavel por deixar eles row */
+.container_ViewFilme { display: flex; gap: 20px; width: 100%; min-height: 90vh;}
+
+/*style do card info do filme */
+.filmeGenero { width: 20%; margin: 0 auto; height: auto; border-radius: 20px; background: #151515; padding: 20px; color: white; box-shadow: 0 0 10px 1px black;}
+
+.filmeGenero div h2 { font: 600 48px "Poppins"; letter-spacing: 2px; text-align: center; padding-block: 20px;}
+
+.filmeGenero div p { font: 400 24px 'Poppins'; padding-block: 20px;}
+
+.boxLinkVoltar { margin-block: 30px;}
+
+.filmeGenero div a { background: rgb(0, 152, 202); text-decoration: none; text-align: center; color: white; font: 600 24px 'Poppins'; padding-block: 20px; display: block;}
+
+.box_capaFilme { padding: 10px;}
+
+.box_capaFilme figure img {width: 100%;}
+
+/* card que tera um trailler mostrando um pouco do filme */
+.boxViewtrailler { width: 75%; height: auto; background: #151515; color: white; border-radius: 15px; margin: 0 auto; box-shadow: 0 0 10px 1px black;}
+
+.boxViewtrailler div h2 { border-bottom: 3px solid white; padding-block: 30px; font: 700 44px 'Poppins'; text-align: center;}
+
+.boxtrailler { padding-block: 40px; width: 100%; position: relative;}
+
+@media(max-width: 320px) {
+    .container_ViewFilme { flex-direction: column;}
+
+    /*style do card info do filme */
+    /* card que tera um trailler mostrando um pouco do filme */
+    .filmeGenero,
+    .boxViewtrailler { width: 99%;}
+
+    .filmeGenero div h2,
+    .boxViewtrailler div h2 { font-size: 18px; padding: 5px 10px;}
+
+    .filmeGenero div p,
+    .filmeGenero div a { font-size: 16px; padding-block: 10px;}
+
+    /*triler do filme*/
+    .boxtrailler iframe { width: 90%; height: 170px; margin-left: 5%;}
+}
+
+@media(min-width: 321px) and (max-width: 480px) {
+
+    .container_ViewFilme { flex-direction: column;}
+
+    /*style do card info do filme */
+    /* card que tera um trailler mostrando um pouco do filme */
+    .filmeGenero,
+    .boxViewtrailler { width: 95%;}
+
+    .filmeGenero div h2,
+    .boxViewtrailler div h2 { font-size: 22px; padding: 5px 15px;}
+
+    .filmeGenero div p,
+    .filmeGenero div a { font-size: 18px;}
+
+    .filmeGenero div a { padding-block: 10px;}
+
+    .boxtrailler iframe { width: 90%; height: 200px; margin-left: 5%;}
+}
+
+@media(min-width: 481px) and (max-width: 792px) {
+    .container_ViewFilme { flex-direction: column; }
+
+    /*style do card info do filme */
+    /* card que tera um trailler mostrando um pouco do filme */
+    .filmeGenero,
+    .boxViewtrailler { width: 90%;}
+
+    .filmeGenero div h2,
+    .boxViewtrailler div h2 { font-size: 24px;}
+
+    .filmeGenero div p,
+    .filmeGenero div a { font-size: 18px;}
+
+    .boxtrailler iframe { width: 90%; height: 350px; margin-left: 5%;}
+}
+
+@media(min-width: 793px) and (max-width: 1200px) {
+
+    /*style do card info do filme */
+    .filmeGenero { width: 30%; height: auto;}
+
+    .filmeGenero div h2,
+    .boxViewtrailler div h2 { font-size: 24px; padding-block: 20px;}
+
+    .filmeGenero div p,
+    .filmeGenero div a {  font-size: 18px; padding-block: 30px;}
+
+    .filmeGenero div a { padding-block: 10px;}
+
+    /* card que tera um trailler mostrando um pouco do filme */
+    .boxViewtrailler { height: auto; width: 70%;}
+
+    .boxViewtrailler div h2 { padding-block: 39px;}
+
+    /*frame do video do youtube*/
+    .boxtrailler iframe { width: 90%; height: 350px; margin-left: 5%;}
+}
+
+@media(min-width: 1201px) and (max-width: 1600px) {
+
+    /*style do card info do filme */
+    .filmeGenero { width: 30%; height: auto; padding: 20px;}
+
+    .filmeGenero div h2 { font-size: 30px; padding-block: 20px;}
+
+    .filmeGenero div p { font-size: 22px; padding-block: 20px;}
+
+    .filmeGenero div a { font-size: 20px; padding-block: 10px;}
+
+    /* card que tera um trailler mostrando um pouco do filme */
+    .boxViewtrailler { height: auto;}
+
+    .boxViewtrailler div h2 { padding-block: 36px; font: 700 35px 'Poppins';}
+
+    .boxtrailler iframe { width: 80%; height: 460px; margin-left: 10%;}
+}
+
+@media(min-width: 1601px) and (max-width: 1900px) {
+
+    /*style do card info do filme */
+    .filmeGenero div h2,.boxViewtrailler div h2  { font-size: 34px; padding-block: 20px;}
+
+    .filmeGenero div p,
+    .filmeGenero div a { font-size: 20px; padding-block: 30px;}
+
+    .filmeGenero div a { padding-block: 10px;}
+
+    /* card que tera um trailler mostrando um pouco do filme */
+    .boxViewtrailler { height: auto;}
+
+    .boxtrailler iframe { width: 90%; height: 490px; margin-left: 5%;}
+}
+
+@media(min-width: 1901px) and (max-width: 2200px) {
+
+    /*style do card info do filme */
+    .filmeGenero div h2, .boxViewtrailler div h2 { font-size: 38px; padding-block: 20px;}
+
+    .filmeGenero div p,
+    .filmeGenero div a { font-size: 26px; padding-block: 30px;}
+
+    .filmeGenero div a { padding-block: 30px;}
+
+    /* card que tera um trailler mostrando um pouco do filme */
+    .boxViewtrailler { height: auto;}
+
+    .boxtrailler iframe { width: 80%; height: 757px; margin-left: 10%;}
+}
+
+@media(min-width: 2201px) {
+
+    /*style do card info do filme */
+    .filmeGenero div h2, .boxViewtrailler div h2 { font-size: 48px;padding-block: 20px;}
+
+    .filmeGenero div p,
+    .filmeGenero div a { font-size: 32px;  padding-block: 30px;}
+
+    .filmeGenero div a { padding-block: 30px; }
+
+    /* card que tera um trailler mostrando um pouco do filme */
+    .boxViewtrailler { height: auto;}
+
+    .boxtrailler iframe { width: 80%; height: 957px; margin-left: 10%;}
+}
